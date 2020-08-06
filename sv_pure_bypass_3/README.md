@@ -1,3 +1,5 @@
+## This is a fork! To make sure you're viewing the most recent page, navigate to https://github.com/kkthxbye-code/csgo_bugs/tree/master/sv_pure_bypass_3
+
 ## sv\_pure bypass \#3
 
 Official valve servers, and most community servers, run with `sv_pure 1`. This causes the client to send crc hashes of the files defined in `pure_server_whitelist.txt` to the server. The server then matches the hashes and kicks the player if there is a mismatch.
